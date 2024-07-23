@@ -1,2 +1,7 @@
 # Amritacoder20
-This is my first website
+##Activity report of student induction program 2024
+
+| Date| Resource person |Description |
+| ----------- | ----------- |---------|
+| |  |
+| Paragraph | Text |
